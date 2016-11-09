@@ -111,15 +111,11 @@ hui999 {
   <p align="center">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
   <a class="button1" href="#">Get started today</a></div>
 <hr>
-<div id="left"><h3>Heading
-		  </h3>
-<p align="left">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac   cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit   amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-		</div>
+<div id="left"><h3>Heading </h3>
+<p align="left">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac   cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit   amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p></div>
 <div id="right"><h3>Heading</h3>
-  <p align="left">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
-</div>
-<div id="center"><h3 align="left">Heading
-  </h3>
+  <p align="left">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p></div>
+<div id="center"><h3 align="left">Heading </h3>
   <div align="left">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </div>
 </div>
 </body></html>
